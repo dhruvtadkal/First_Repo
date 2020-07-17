@@ -1,6 +1,6 @@
-This is my first file in GIT repository
+This is my first file in GIThub repository
 
-
+This is to show the working of branching in GIThub
 
 
 Thank you :)
